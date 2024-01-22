@@ -1,0 +1,1 @@
+delete from pedido where quantidade = 1 and cliente = "BIA";
